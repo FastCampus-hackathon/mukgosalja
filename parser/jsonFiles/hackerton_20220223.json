@@ -1,0 +1,1098 @@
+[
+  {
+    "companyName": "매드업(주)",
+    "dueDate": "2022.02.28",
+    "career": "8년 이상",
+    "employType": "정규직",
+    "location": "서울시 서초구 서초대로74길 4 삼성생명 서초타워 20층",
+    "jobs": "DBA(Database Admin.)"
+  },
+  {
+    "companyName": "(주)더블엔씨",
+    "dueDate": "2022.08.08",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 501, 4층(삼성동, 브이플렉스)",
+    "jobs": "DBA(Database Admin.)"
+  },
+  {
+    "companyName": "로앤컴퍼니(주)",
+    "dueDate": "2022.02.28",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 역삼로 180, 4층 (역삼동, 마루180)",
+    "jobs": "DBA(Database Admin.), 데이터분석"
+  },
+  {
+    "companyName": "(주)트릿지",
+    "dueDate": "2022.03.07",
+    "career": "0년 이상",
+    "employType": "계약직",
+    "location": "서울 서초구 방배로 226, 4-6층",
+    "jobs": "경영기획/전략, 컨설팅"
+  },
+  {
+    "companyName": "잡플래닛",
+    "dueDate": "2022.03.31",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 415 스파크플러스 3층 307호 (L7 Hotel 강남타워)",
+    "jobs": "DBA(Database Admin.), 데이터분석"
+  },
+  {
+    "companyName": "리드커리어(주)",
+    "dueDate": "2022.02.28",
+    "career": "0년 이상",
+    "employType": "계약직",
+    "location": "경기도 용인시 기흥구 신구로12번길 32. 5층",
+    "jobs": "DBA(Database Admin.), 네트워크/보안/운영"
+  },
+  {
+    "companyName": "(주)모스카스튜디오",
+    "dueDate": "2022.02.28",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "충청남도 천안시 서북구 서부역12길 30-14(성정동)",
+    "jobs": "DBA(Database Admin.), 모바일앱개발, 웹개발"
+  },
+  {
+    "companyName": "아테나스랩(주)",
+    "dueDate": "2022.03.02",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 마포구 공덕동 마포대로 122 14층",
+    "jobs": "DBA(Database Admin.), 소프트웨어엔지니어, 웹개발"
+  },
+  {
+    "companyName": "세이지리서치(주)",
+    "dueDate": "2022.08.07",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울시 서초구 서초대로40길 49, 라이프재단빌딩 2,5층",
+    "jobs": "DBA(Database Admin.), 소프트웨어엔지니어, 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)제네시스랩",
+    "dueDate": "2022.06.09",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 중구 명동길 73 페이지명동 5층",
+    "jobs": "DBA(Database Admin.), 데이터분석, 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)보이스루",
+    "dueDate": "2022.02.28",
+    "career": "7년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 서초구 강남대로 311 한화생명보험빌딩 드림플러스 13층",
+    "jobs": "소프트웨어엔지니어, DBA(Database Admin.), 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)페이히어",
+    "dueDate": "2022.04.13",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로84길 16, 제10층",
+    "jobs": "DBA(Database Admin.), 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)빌리앤코",
+    "dueDate": "2022.03.16",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로77길 11-10, 9층",
+    "jobs": "DBA(Database Admin.), 시스템엔지니어, 웹개발"
+  },
+  {
+    "companyName": "Pulit Inc.",
+    "dueDate": "2022.07.05",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "Ko-nan, Minato-ku, Tokyo 108-0071 Japan",
+    "jobs": "DBA(Database Admin.), 네트워크/보안/운영, 웹개발"
+  },
+  {
+    "companyName": "에이케이아이에스(주)",
+    "dueDate": "2022.02.28",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 금천구 가산동 371-16번지 아이티캐슬2차 1701호",
+    "jobs": "DBA(Database Admin.)"
+  },
+  {
+    "companyName": "씨제이올리브네트웍스(주)",
+    "dueDate": "2022.03.31",
+    "career": "4년 이상",
+    "employType": "정규직",
+    "location": "서울 용산구 한강대로 366, 10층",
+    "jobs": "DBA(Database Admin.)"
+  },
+  {
+    "companyName": "(주)위메프",
+    "dueDate": "2022.03.10",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 영동대로 502",
+    "jobs": "DBA(Database Admin.)"
+  },
+  {
+    "companyName": "(주)꾼",
+    "dueDate": "2022.06.20",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "전북 전주시 덕진구 기린대로 886",
+    "jobs": "DBA(Database Admin.), 네트워크/보안/운영"
+  },
+  {
+    "companyName": "(주)와이즈트래커",
+    "dueDate": "2022.06.14",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 415, 스파크플러스 2층 (삼성동, L7강남빌딩)",
+    "jobs": "DBA(Database Admin.), 데이터분석, 소프트웨어엔지니어"
+  },
+  {
+    "companyName": "핀다",
+    "dueDate": "2022.06.07",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 431 저스트코 타워 12층",
+    "jobs": "DBA(Database Admin.)"
+  },
+  {
+    "companyName": "(주)워시스왓",
+    "dueDate": "2022.03.31",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 금천구 범안로11길 65",
+    "jobs": "DBA(Database Admin.), 시스템엔지니어, 웹개발"
+  },
+  {
+    "companyName": "(주)이씨에스텔레콤",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 서초3동 1543-1 일홍빌딩 전층",
+    "jobs": "DBA(Database Admin.), 네트워크/보안/운영, 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)아프리카티비",
+    "dueDate": "2022.03.02",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "경기 성남시 분당구 판교로228번길 15 (삼평동,판교7벤처밸리3)",
+    "jobs": "DBA(Database Admin.), 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)자란다",
+    "dueDate": "2022.04.19",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로 431 저스트코타워 14층",
+    "jobs": "DBA(Database Admin.), 소프트웨어엔지니어, 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)엠플랜잇",
+    "dueDate": "2022.04.19",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 논현로94길30 효빌딩 5층",
+    "jobs": "DBA(Database Admin.), 웹개발"
+  },
+  {
+    "companyName": "데이터헌트(주)",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 서초대로",
+    "jobs": "DBA(Database Admin.), 시스템엔지니어, 웹개발"
+  },
+  {
+    "companyName": "(주)인투인월드",
+    "dueDate": "2022.03.03",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 강남구 선릉로",
+    "jobs": "DBA(Database Admin.), 데이터분석, 웹개발"
+  },
+  {
+    "companyName": "(주)조이시티",
+    "dueDate": "2022.05.30",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "경기도 성남시 분당구 분당로 55 분당퍼스트타워 10층",
+    "jobs": "DBA(Database Admin.), 게임개발"
+  },
+  {
+    "companyName": "글링크미디어(주)",
+    "dueDate": "2022.02.28",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 강남구 테헤란로 142, 위워크 역삼1호점 (아크플레이스) 5층 글링크미디어",
+    "jobs": "그래픽디자인"
+  },
+  {
+    "companyName": "(유)일루미나리안",
+    "dueDate": "2022.03.31",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "강남구 강남대로 364(역삼동, 미왕빌딩) 1401호",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "비스포크랩(주)",
+    "dueDate": "2022.02.28",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 마포구 와우산로29나길 8",
+    "jobs": "QA(Quality Assurance),기획"
+  },
+  {
+    "companyName": "(주)메쉬코리아",
+    "dueDate": "2022.08.26",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로 418 다봉빌딩 12-13층",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)씨티케이이비전세일즈랩",
+    "dueDate": "2022.03.03",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 효령로 234",
+    "jobs": "QA(Quality Assurance), 기획"
+  },
+  {
+    "companyName": "데브시스터즈(주)",
+    "dueDate": "2022.12.31",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 도산대로 327",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)나인코퍼레이션",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 선릉로93길 40, 607호",
+    "jobs": "소프트웨어엔지니어, QA(Quality Assurance)"
+  },
+  {
+    "companyName": "클래스팅(주)",
+    "dueDate": "2022.04.21",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 삼성로85길 26, V&S빌딩 14층",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)드림어스컴퍼니",
+    "dueDate": "2022.03.02",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 강남대로311",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)뷰노",
+    "dueDate": "2022.12.31",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 강남대로 479, 9F (반포동)",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)엔터플",
+    "dueDate": "2022.12.31",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 영등포구 국제금융로8길 25, 301호",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)버넥트",
+    "dueDate": "2022.08.16",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 용산구 한강대로 7길 10-15 버넥트 익스피리언스 센터",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)버킷플레이스",
+    "dueDate": "2022.04.13",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 서초대로74길 4 삼성생명서초타워 25, 27층",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)서울로보틱스",
+    "dueDate": "2022.07.17",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 서초구 서초대로 46길 92",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)엘리스",
+    "dueDate": "2022.07.20",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 선릉로 433 (세방빌딩) 6F, 16F",
+    "jobs": "QA(Quality Assurance), 네트워크/보안/운영, 소프트웨어아키텍트"
+  },
+  {
+    "companyName": "엔테크서비스(주)",
+    "dueDate": "2022.04.17",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "경기 성남시 분당구 황새울로359번길 11",
+    "jobs": "QA(Quality Assurance), 소프트웨어엔지니어"
+  },
+  {
+    "companyName": "(주)뱅크샐러드",
+    "dueDate": "2022.04.27",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 영등포구 여의대로 108 파크원빌딩 타워1 43, 44층",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)매스프레소",
+    "dueDate": "2022.04.26",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 강남구 선릉로 428",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)퀼슨",
+    "dueDate": "2022.07.03",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 509, NC타워1 10층",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)보이저엑스",
+    "dueDate": "2022.05.03",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 서초대로38길",
+    "jobs": "QA(Quality Assurance)"
+  },
+  {
+    "companyName": "(주)엔씨엘",
+    "dueDate": "2022.03.23",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 종로구 자하문로 95",
+    "jobs": "QA(Quality Assurance), 소프트웨어엔지니어"
+  },
+  {
+    "companyName": "(주)씨드앤",
+    "dueDate": "2022.03.07",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 성동구 왕십리로 115 헤이그라운드 서울숲점 411호",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "다큐브(주)",
+    "dueDate": "2022.02.28",
+    "career": "7년 이상",
+    "employType": "정규직",
+    "location": "서울 영등포구 여의나루로 67 12층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)에이스프로젝트",
+    "dueDate": "2022.03.11",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 중구 한강대로 416 서울스퀘어 14층 wework 141호",
+    "jobs": "게임개발, 모바일앱개발, 기획"
+  },
+  {
+    "companyName": "(주)창소프트아이앤아이",
+    "dueDate": "2022.03.19",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로103길 8-7, 4층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)살다",
+    "dueDate": "2022.03.31",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 중구 서소문로 106 14층",
+    "jobs": "기획, 프로젝트매니저, 상품개발/기획/MD"
+  },
+  {
+    "companyName": "(주)엘지씨엔에스",
+    "dueDate": "2022.02.28",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 강서구 마곡중앙8로 71",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "가비아(주)",
+    "dueDate": "2022.02.27",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "경기 성남시 분당구 삼평동 670 유스페이스1 B동 4, 5층",
+    "jobs": "마케팅, 기획"
+  },
+  {
+    "companyName": "빅피처인터렉티브(주)",
+    "dueDate": "2022.02.28",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 금천구 두산로9길 31(독산동) 빅픽처인터렉티브",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)카카오브이엑스",
+    "dueDate": "2022.02.27",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "경기도 성남시 분당구 판교로 228번길 17 판교세븐벤처밸리2 제1동 4층",
+    "jobs": "기획, 시스템엔지니어"
+  },
+  {
+    "companyName": "큐보스(주)",
+    "dueDate": "2022.03.13",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 강남대로162길 27-8, 3층",
+    "jobs": "기획, 프로젝트매니저, UI/UX/GUI디자인"
+  },
+  {
+    "companyName": "(주)더체크",
+    "dueDate": "2022.03.16",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 언주로 417 더체크 빌딩",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주))힐링페이퍼",
+    "dueDate": "2022.03.03",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 124 삼원타워 13층",
+    "jobs": "기획, 상품개발/기획/MD"
+  },
+  {
+    "companyName": "쿠팡(주)",
+    "dueDate": "2022.03.31",
+    "career": "7년 이상",
+    "employType": "정규직",
+    "location": "서울 송파구 송파대로 570, 18층",
+    "jobs": "기획, 데이터분석, 프로젝트매니저"
+  },
+  {
+    "companyName": "펜타클",
+    "dueDate": "2022.07.27",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 학동로23길 18 펜타클빌딩",
+    "jobs": "기획, 데이터분석, 웹개발"
+  },
+  {
+    "companyName": "(주)두핸즈",
+    "dueDate": "2022.03.31",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로44길 8, 5층",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)써머스플랫폼",
+    "dueDate": "2022.05.12",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울시 금천구 가산디지털1로 186",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "알라딘커뮤니케이션(주)",
+    "dueDate": "2022.02.22",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 중구 서소문로 26",
+    "jobs": "기획, 웹개발, 프로젝트매니저"
+  },
+  {
+    "companyName": "라인게임즈(주)",
+    "dueDate": "2022.02.28",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 강남대로 479 (반포동, 신논현타워)",
+    "jobs": "게임개발, 기획"
+  },
+  {
+    "companyName": "(주)뉴게이즈",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 성동구 서울숲6길 10, 2층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)스태비",
+    "dueDate": "2022.02.28",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 논현로 727, 신명빌딩 6층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "네이버(주)",
+    "dueDate": "2022.02.28",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "경기 성남시 분당구 불정로 6 (정자동,그린팩토리)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)유비케어",
+    "dueDate": "2022.02.28",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 영등포구 여의대로 108, 30층,31층",
+    "jobs": "기획, 네트워크/보안/운영"
+  },
+  {
+    "companyName": "(주)딜라이트룸",
+    "dueDate": "2022.07.26",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 사평대로 368 12,13층 딜라이트룸",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)인터파크",
+    "dueDate": "2022.03.31",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 삼성로 512",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "넷마블몬스터(주)",
+    "dueDate": "2022.12.31",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 구로구 디지털로26길 38 22~23층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)이글루시큐리티",
+    "dueDate": "2022.02.27",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 송파구 정의로8길 7 (문정동 640-3) 한스빌딩 6층",
+    "jobs": "기획, 네트워크/보안/운영"
+  },
+  {
+    "companyName": "한국항공우주산업(주)",
+    "dueDate": "2022.12.30",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "경남 사천시 사남면 공단1로 78 (유천리,한국항공우주산업)",
+    "jobs": ""
+  },
+  {
+    "companyName": "(주)LF",
+    "dueDate": "2022.03.31",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 언주로 870",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)빅인사이트",
+    "dueDate": "2022.08.03",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울시 강남구 테헤란로4길 5 해암빌딩 9층",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)루나소프트",
+    "dueDate": "2022.03.08",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 325 어반벤치 12F 루나소프트",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)나인투원",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 강남대로69길 8, 1089호",
+    "jobs": "기획, 모바일앱개발, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)쏘카",
+    "dueDate": "2022.04.14",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울시 성동구 왕십리로 83-21. 디타워 4F",
+    "jobs": "기획, 경영지원"
+  },
+  {
+    "companyName": "(주)큐에스",
+    "dueDate": "2022.08.09",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "경북 구미시 첨단기업1로 17 구미전자정보기술원 국산화지원센터 405호",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)퀸즈스마일",
+    "dueDate": "2022.05.22",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "대전 유성구 대덕대로512번길 20",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "스포카(주)",
+    "dueDate": "2022.06.16",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로 133, 3층 (역삼동, 한국타이어빌딩)",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "오케스트로(주)",
+    "dueDate": "2022.06.08",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 영등포구 국제금융로",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "바비디(주)",
+    "dueDate": "2022.04.24",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 강남대로53길 8, 5층 7-5호",
+    "jobs": "기획, 프로젝트매니저, 온라인마케팅"
+  },
+  {
+    "companyName": "(주)샌드박스네트워크",
+    "dueDate": "2022.04.30",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 서빙고로 17 센트럴파크타워 30층",
+    "jobs": "게임개발, UI/UX/GUI디자인, 기획"
+  },
+  {
+    "companyName": "(주)코드브릭",
+    "dueDate": "2022.04.25",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 역삼로 169 팁스타운 S2 명우빌딩 7층",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)캐플릭스",
+    "dueDate": "2022.06.29",
+    "career": "4년 이상",
+    "employType": "정규직",
+    "location": "제주 제주시 신광로 21, 4층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)위아더",
+    "dueDate": "2022.08.08",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 성북구 성북로 95-1",
+    "jobs": "기획, UI/UX/GUI디자인"
+  },
+  {
+    "companyName": "(주)퓨처플레이",
+    "dueDate": "2022.03.07",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 성동구 왕십리로 83-21 아크로서울포레스트 D타워 8층",
+    "jobs": ""
+  },
+  {
+    "companyName": "(주)마켓디자이너스",
+    "dueDate": "2022.07.11",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로20길 9 동궁빌딩 13층",
+    "jobs": "기획, 상품개발/기획/MD"
+  },
+  {
+    "companyName": "지투알(주)",
+    "dueDate": "2022.08.07",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 마포구 공덕동 275 LG마포빌딩 15층",
+    "jobs": "기획, 마케팅"
+  },
+  {
+    "companyName": "롯데쇼핑(주)",
+    "dueDate": "2022.03.31",
+    "career": "4년 이상",
+    "employType": "정규직",
+    "location": "서울 중구 남대문로 81 (소공동,롯데쇼핑센터빌딩)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)아이이에이",
+    "dueDate": "2022.08.15",
+    "career": "10년 이상",
+    "employType": "정규직",
+    "location": "서울시 송파구 법원로 128 A-1612",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주) 버넥트",
+    "dueDate": "2022.08.16",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 용산구 한강대로 7길 10-15 버넥트 익스피리언스 센터",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)디셈버앤컴퍼니자산운용",
+    "dueDate": "2022.05.04",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 강남구 테헤란로 231, 센터필드 WEST 19층",
+    "jobs": "기획, 데이터분석"
+  },
+  {
+    "companyName": "(주)아이엠파인",
+    "dueDate": "2022.05.12",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 마포구 잔다리로 31, 4층, 5층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)퓨처플레이",
+    "dueDate": "2022.03.07",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 성동구 왕십리로 83-21 아크로서울포레스트 D타워 8층",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "지에스글로벌(주)",
+    "dueDate": "2022.02.25",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 논현로 508 (역삼동,GS타워)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "플렉스(주)",
+    "dueDate": "2022.02.26",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 서초구 서초대로77길 17",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)쉐어그라운드",
+    "dueDate": "2022.05.31",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 중구 퇴계로75길 15, 2층",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "(주)이지서티",
+    "dueDate": "2022.05.04",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 선릉로 577, 6층",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "네오플(주)",
+    "dueDate": "2022.04.25",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "제주특별자치도 제주시 1100로 3198-13, 네오마루(노형동)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)부동산다이렉트",
+    "dueDate": "2022.04.20",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 311, 아남타",
+    "jobs": "기획, 프로젝트매니저"
+  },
+  {
+    "companyName": "한국철강협회",
+    "dueDate": "2022.07.11",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 송파구 중대로 135 아이티벤처타워 동관 1501호",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)한섬",
+    "dueDate": "2022.04.27",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 도산대로 523",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "안진회계법인",
+    "dueDate": "2022.05.08",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 영등포구 국제금융로 10, One IFC 빌딩",
+    "jobs": "기획, 경영기획/전략, 컨설팅"
+  },
+  {
+    "companyName": "(주)조이시티",
+    "dueDate": "2022.05.30",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "경기도 성남시 분당구 분당로 55 분당퍼스트타워 10층",
+    "jobs": "게임개발, 기획"
+  },
+  {
+    "companyName": "크루메이트(주)",
+    "dueDate": "2022.02.22",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 남부순환로365길 45 3층",
+    "jobs": "기획, 웹개발"
+  },
+  {
+    "companyName": "(주)아이아라",
+    "dueDate": "2022.03.03",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 논현동 270-38, 진현빌딩 2동 301호",
+    "jobs": "기획, 웹개발"
+  },
+  {
+    "companyName": "(주)일레븐코퍼레이션",
+    "dueDate": "2022.06.12",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 도산대로 145, 303호",
+    "jobs": "기획, 웹개발"
+  },
+  {
+    "companyName": "(주)유비온",
+    "dueDate": "2022.06.12",
+    "career": "7년 이상",
+    "employType": "정규직",
+    "location": "서울 구로구 디지털로34길 27, 대륭포스트타워 3차 601호",
+    "jobs": "기획, 시스템엔지니어"
+  },
+  {
+    "companyName": "(주)아이파트너즈",
+    "dueDate": "2022.04.12",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 강남대로 621, 9층 (잠원동,K TOWER)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "네오그라프(주)",
+    "dueDate": "2022.04.05",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 서초구 동광로3길 119, 301호 (방배동,고산빌딩)",
+    "jobs": "기획, 시스템엔지니어, 웹개발"
+  },
+  {
+    "companyName": "이퓨전아이(주)",
+    "dueDate": "2022.06.12",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 도산대로8길 17-10 (논현동,아이리스빌딩)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "디엠아이시스템즈(주)",
+    "dueDate": "2022.05.01",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울 마포구 성지길 27 (합정동,디엠아이빌딩)",
+    "jobs": "기획, 경영기획/전략, 경영지원"
+  },
+  {
+    "companyName": "(주)에이앤티솔루션",
+    "dueDate": "2022.04.05",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 삼성로 508, 1211호 (삼성동,엘지트윈빌딩2차)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "파킹클라우드(주)",
+    "dueDate": "2022.04.05",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "07276 서울특별시 영등포구 영등포로 3길 19 1층,2층(양평동2가, 선진빌딩)",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "그램퍼스(주)",
+    "dueDate": "2022.05.02",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로 431, 10동",
+    "jobs": "기획"
+  },
+  {
+    "companyName": "(주)브랜드엑스코퍼레이션",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 성동구 뚝섬로1길 63 영창디지털타워 6F, 12F, 16F",
+    "jobs": "네트워크/보안/운영"
+  },
+  {
+    "companyName": "(주)세컨신드롬",
+    "dueDate": "2022.03.31",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "논현로 417",
+    "jobs": "고객지원/CS, 기타 서비스직"
+  },
+  {
+    "companyName": "(주)사운드캠코리아",
+    "dueDate": "2022.03.02",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 성동구 아차산로17길 48, 922호",
+    "jobs": "소프트웨어엔지니어, 하드웨어엔지니어, 기계설계"
+  },
+  {
+    "companyName": "(주)더안코어컴퍼니",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 성동구 왕십리로 125, 패스트파이브",
+    "jobs": "UI/UX/GUI디자인, 웹디자인"
+  },
+  {
+    "companyName": "(주)빅인사이트",
+    "dueDate": "2022.04.29",
+    "career": "7년 이상",
+    "employType": "정규직",
+    "location": "서울시 강남구 테헤란로4길 5 해암빌딩 9층",
+    "jobs": "UI/UX/GUI디자인, 그래픽디자인"
+  },
+  {
+    "companyName": "(주)창소프트아이앤아이",
+    "dueDate": "2022.03.19",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로103길 8-7, 4층",
+    "jobs": "데이터분석, 웹개발, 웹퍼블리셔"
+  },
+  {
+    "companyName": "(주)에이젠글로벌",
+    "dueDate": "2022.02.28",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울시 영등포구 은행로 30, 여의도동 중소기업중앙회 본관8층",
+    "jobs": ""
+  },
+  {
+    "companyName": "(주)힐링페이퍼",
+    "dueDate": "2022.03.03",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 강남구 테헤란로 124 삼원타워 13층",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "매드업(주)",
+    "dueDate": "2022.02.28",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울시 서초구 서초대로74길 4 삼성생명 서초타워 20층",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "삼정회계법인",
+    "dueDate": "2022.02.28",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로 152",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "(주)케이뱅크",
+    "dueDate": "2022.03.01",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 중구 을지로 170, 을지트윈타워 6층",
+    "jobs": "데이터분석, 소프트웨어엔지니어"
+  },
+  {
+    "companyName": "펜타클",
+    "dueDate": "2022.07.27",
+    "career": "3년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 학동로23길 18 펜타클빌딩",
+    "jobs": "기획, 데이터분석, 웹개발"
+  },
+  {
+    "companyName": "(주)두핸즈",
+    "dueDate": "2022.03.31",
+    "career": "5년 이상",
+    "employType": "정규직",
+    "location": "서울 강남구 테헤란로44길 8, 5층",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "(주)앨지유플러스",
+    "dueDate": "2022.12.31",
+    "career": "2년 이상",
+    "employType": "정규직",
+    "location": "서울특별시 용산구 한강대로 32",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "(주)쏘카",
+    "dueDate": "2022.04.14",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울시 성동구 왕십리로 83-21. 디타워 4F",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "한국아이큐비아(주)",
+    "dueDate": "2022.06.15",
+    "career": "1년 이상",
+    "employType": "정규직",
+    "location": "서울 송파구 신천동 7-25 월드타워건물 13층",
+    "jobs": "데이터분석"
+  },
+  {
+    "companyName": "한국아이디지(주)",
+    "dueDate": "2022.03.31",
+    "career": "0년 이상",
+    "employType": "정규직",
+    "location": "서울 중구 세종대로 23, 4층",
+    "jobs": "데이터분석, 온라인마케팅"
+  }
+]
