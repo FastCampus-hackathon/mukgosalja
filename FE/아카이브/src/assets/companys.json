@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "createdAt": "2022-02-22T11:04:37.219Z",
+      "companyName": "끄끄흐디자인",
+      "dueDate": "2022-02-22T11:04:37.219Z",
+      "career": 0,
+      "employType": "정규직",
+      "location": "string",
+      "latitude": 37.48955768229919,
+      "longitude": 126.88272618864943,
+      "jobs": ["프론트 엔드"]
+    },
+    {
+      "id": 2,
+      "createdAt": "2022-02-22T11:04:37.219Z",
+      "companyName": "따블컴퍼니",
+      "dueDate": "2022-02-22T11:04:37.219Z",
+      "career": 0,
+      "employType": "정규직",
+      "location": "string",
+      "latitude": 35.1967451,
+      "longitude": 129.79686902,
+      "jobs": ["프론트 엔드"]
+    },
+    {
+      "id": 3,
+      "createdAt": "2022-02-22T11:04:37.219Z",
+      "companyName": "사이트제작소",
+      "dueDate": "2022-02-22T11:04:37.219Z",
+      "career": 0,
+      "employType": "정규직",
+      "location": "string",
+      "latitude": 37.584,
+      "longitude": 127.001,
+      "jobs": ["프론트 엔드"]
+    },
+    {
+      "id": 4,
+      "createdAt": "2022-02-22T11:04:37.219Z",
+      "companyName": "롯데백화점",
+      "dueDate": "2022-02-22T11:04:37.219Z",
+      "career": 0,
+      "employType": "정규직",
+      "location": "string",
+      "latitude": 37.594,
+      "longitude": 127.001,
+      "jobs": ["프론트 엔드"]
+    },
+    {
+      "id": 5,
+      "createdAt": "2022-02-22T11:04:37.219Z",
+      "companyName": "롯데마트",
+      "dueDate": "2022-02-22T11:04:37.219Z",
+      "career": 0,
+      "employType": "정규직",
+      "location": "string",
+      "latitude": 37.604,
+      "longitude": 127.001,
+      "jobs": ["프론트 엔드"]
+    }
+  ]
+}
